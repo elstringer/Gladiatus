@@ -1,0 +1,47 @@
+body {
+	background: #000;
+	
+}
+
+
+#wrapper {
+	background:url(login/white/wrapper_top.png) repeat-x;
+	
+	
+}
+
+#wrapper2 {
+	background:url(login/white/wrapper_bottom.png) repeat-x left bottom;
+	
+}
+
+#stripes {
+	background:url(login/white/body_bg.png);
+	
+}
+
+* html #wrapper3 {
+	background: transparent;
+}
+
+#login_wrapper_bg {
+	width: 0;
+	height: 0;
+	background: transparent;
+}
+
+#login_wrapper {
+	margin-top: -93px;
+} 
+
+h1 {
+	color: #444446;
+	background-image:url(login/white/h1.png);
+}
+
+.formular_top {
+	background-image:url(login/white/formular_top.png);
+}
+
+
+

@@ -1,0 +1,52 @@
+body {
+	background: #000;
+	
+}
+
+
+#wrapper {
+	background:url(login/dark/wrapper_top.jpg) no-repeat center 0;
+	
+	
+}
+
+#wrapper2 {
+	background:url(login/dark/wrapper_bottom.jpg) no-repeat center bottom;
+	
+}
+
+#stripes {
+	background:url(login/dark/body_bg.png);
+	
+}
+
+* html #wrapper3 {
+	background: transparent;
+}
+
+#login_wrapper_bg {
+	display: block;
+	width: 903px;
+	height: 308px;
+	background:url(login/dark/login_wrapper_bg.jpg) no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -419px;
+	margin-top: -60px;
+}
+
+#login_wrapper {
+	margin-top: -93px;
+} 
+
+h1 {
+	background-image:url(login/dark/h1.png);
+}
+
+.formular_top {
+	background-image:url(login/dark/formular_top.png);
+}
+
+
+

@@ -1,0 +1,74 @@
+
+
+#wrapper {
+	height: 100%;
+}
+
+.inner {
+	height: 1px;
+}
+
+#footer {
+	height: 1px;
+}
+
+#footer .inner {
+	height: 29px;
+} 
+
+
+#logo a,
+#main_menu .l span, 
+#main_menu .r span,
+#main_menu .m span,
+.section_menu .l span, 
+.section_menu .r span,
+.section_menu .m span
+ {
+	visibility: hidden;
+	behavior: url(css/iepngfix.htc);
+	cursor: pointer;
+	
+}
+
+.sub_bg,
+.title_wrapper_top,
+.title_wrapper_bottom,
+.title_wrapper_middle,
+.section_content_top, 
+.section_content_bottom,
+.system_messages span.ico,
+.pagination_bottom,
+#header_main_menu_bg
+ 
+ {
+	visibility: hidden;
+	behavior: url(css/iepngfix.htc);
+}
+
+.section_content_inner {
+	height: 1px;
+}
+
+.tooltip_bottom {
+	height: 1px;
+}
+
+
+.system_messages li  {
+	height: 1px;
+}
+
+.CalendarEventContent{
+	height: 48px;
+}
+
+.section_sidebar_bottom {
+	height: 1px;
+}
+
+.pagination_wrapper {
+	height: 1px;
+}
+
+
